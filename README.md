@@ -134,12 +134,15 @@ I'm a passionate **Software Developer** who loves turning ideas into reality thr
 ## 🐍 Contribution Snake
 
 <div align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashesh1195/Yashesh1195/output/github-contribution-grid-snake-dark.svg" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+</div>
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashesh1195/Yashesh1195/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashesh1195/Yashesh1195/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashesh1195/Yashesh1195/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</div> -->
 
 ---
 
