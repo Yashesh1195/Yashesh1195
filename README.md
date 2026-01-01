@@ -71,14 +71,14 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashesh1195&layout=compact&langs_count=8&theme=tokyonight"/>
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashesh1195&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashesh1195&theme=tokyonight" alt="Top Languages by Repo"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashesh1195&theme=tokyonight" alt="Top Languages by Commit"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashesh1195&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
