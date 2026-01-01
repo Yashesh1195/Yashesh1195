@@ -222,8 +222,6 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashesh1195/Yashesh1195/output/github-contribution-grid-snake-dark.svg" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4"/>
@@ -234,9 +232,11 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4"/>
+<!--
 ### 💡 Did you find something interesting? 
-
-<table align="center">
+-->
+<!-- <table align="center">
 <tr>
 <td align="center">
 <kbd>
@@ -261,15 +261,13 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
 </td>
 </tr>
 </table>
+<br> -->
 
-<br>
-
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-skyblue?style=for-the-badge&logo=github)](https://github.com/Yashesh1195)
+<!-- [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-skyblue?style=for-the-badge&logo=github)](https://github.com/Yashesh1195)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-💙-lightgrey?style=for-the-badge)](https://github.com/Yashesh1195)
+-->
 
 <br>
-
----
 
 <!-- <sub> -->
   
