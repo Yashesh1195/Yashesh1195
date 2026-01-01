@@ -11,14 +11,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** who loves turning ideas into reality through code.   I believe in writing clean, efficient, and scalable solutions. 
+I'm a passionate **Data Science Enthusiast** and **Front End Developer** who loves transforming raw data into actionable insights and building scalable web solutions. I believe in the power of data-driven decision making and clean, efficient code.
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me:   **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I'm currently working on **Building Data Analytics Dashboards and expanding my expertise in Data Science**
+- 🌱 I'm currently learning **Machine Learning, AI, and Advanced Data Analytics**
+- 👯 I'm looking to collaborate on **Data Science & Machine Learning Projects, Web Development Solutions, and Innovative Startup Ideas**
+- 💬 Ask me about **Python, Data Visualization (Matplotlib, Seaborn, Pandas), SQL, and Full Stack Development (MERN Stack)**
+- 📫 How to reach me: **yasheshmehta2005@gmail. com**
+- ⚡ Fun fact: **There are 10 types of people: those who understand binary and those who don't!  😎**
 
 ---
 
@@ -33,15 +33,17 @@ I'm a passionate **Software Developer** who loves turning ideas into reality thr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!--
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+-->
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -53,10 +55,12 @@ I'm a passionate **Software Developer** who loves turning ideas into reality thr
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL_Server-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<!--
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+-->
 
 ---
 
@@ -94,7 +98,7 @@ I'm a passionate **Software Developer** who loves turning ideas into reality thr
 </div>
 
 ---
-
+<!--
 ## 📌 Pinned Repositories
 
 <div align="center">
@@ -137,14 +141,13 @@ I'm a passionate **Software Developer** who loves turning ideas into reality thr
 </td>
 
 <td width="50%">
-<!-- Add another project or leave empty -->
 </td>
 </tr>
 </table>
 
 </div>
-
 ---
+-->
 
 ## 🎓 Education
 
@@ -199,12 +202,12 @@ I'm a passionate **Software Developer** who loves turning ideas into reality thr
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<!--
 <br><br>
-
 📧 **Email:** yasheshmehta2005@gmail.com  
 🔗 **LinkedIn:** [Yashesh Mehta](https://www.linkedin.com/in/yashesh-mehta-892b282b9)  
 💼 **GitHub:** [@Yashesh1195](https://github.com/Yashesh1195)
-
+-->
 <br>
 
 ### 📬 Feel free to reach out for collaborations or just a friendly chat!
@@ -218,52 +221,8 @@ I'm a passionate **Software Developer** who loves turning ideas into reality thr
 <div align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashesh1195/Yashesh1195/output/github-contribution-grid-snake-dark.svg" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 </div>
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashesh1195/Yashesh1195/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashesh1195/Yashesh1195/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashesh1195/Yashesh1195/output/github-contribution-grid-snake.svg">
-  </picture>
-</div> -->
 
 ---
-
-<!-- <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love" />
-  
-  ### Show some ❤️ by starring some of my repositories!
-  
-  ⭐️ From [Yashesh1195](https://github.com/Yashesh1195)
-</div> -->
-
-<!-- <div align="center">
-
----
-
-### 💖 Thank you for visiting my profile! 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red? style=for-the-badge)](https://github.com/Yashesh1195)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=Yashesh1195&label=Profile%20Views&countColor=%23263759&style=for-the-badge)](https://visitorbadge.io/status?path=Yashesh1195)
-
-<br>
-
-### ⭐ Show some love by starring the repositories!
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-<br>
-
-**💡 "Code is like humor.  When you have to explain it, it's bad." - Cory House**
-
-<br>
-
-<a href="https://github.com/Yashesh1195">
-  <img src="https://img.shields.io/badge/⬅️_Back_to_Profile-181717?style=for-the-badge&logo=github" alt="Back to Profile"/>
-</a>
-
-</div> -->
 
 <div align="center">
 
