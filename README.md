@@ -86,56 +86,29 @@ I'm a passionate **Software Developer** who loves turning ideas into reality thr
 
 <!-- You can customize this section with your actual projects -->
 <div align="center">
-  <a href="https://github.com/Yashesh1195/project1">
+  <a href="https://github.com/Yashesh1195/PROJECT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashesh1195&repo=project1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Yashesh1195/project2">
+  <a href="https://github.com/Yashesh1195/EV-Rental-Management-System-HYMN-EV-Rentals">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashesh1195&repo=project2&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Yashesh1195/21-Days-SQL-Challenge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashesh1195&repo=project2&theme=tokyonight" />
   </a>
 </div>
 
 ---
 
-## 💼 Work Experience
-
-### **[Job Title]** @ [Company Name]
-*[Start Date] - [End Date/Present]*
-- 🔹 [Key achievement or responsibility]
-- 🔹 [Key achievement or responsibility]
-- 🔹 [Key achievement or responsibility]
-
-### **[Job Title]** @ [Company Name]
-*[Start Date] - [End Date]*
-- 🔹 [Key achievement or responsibility]
-- 🔹 [Key achievement or responsibility]
-
----
-
 ## 🎓 Education
 
-**[Degree]** in **[Field of Study]**  
-[University/College Name] | [Year]
+**[Bachelor of Engineering]** in **[Computer Engineering]**  
+[VISHWAKARMA GOVERNMENT ENGINEERING COLLEGE] | [2027]
 
 ---
 
 ## 🏅 Certifications & Achievements
 
-- 🏆 **[Certification Name]** - [Issuing Organization]
-- 🏆 **[Achievement/Award]** - [Event/Competition]
-- 🏆 **[Certification Name]** - [Issuing Organization]
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST: START -->
-<!-- You can use GitHub Actions to automatically update this -->
-- [Blog Post Title 1](https://yourblog.com/post1)
-- [Blog Post Title 2](https://yourblog.com/post2)
-- [Blog Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://yourblog.com)
+- 🏆 **[DEWANG MEHTA IT AWARD 2025]** - [DEWANG MEHTA FOUNDATION]
 
 ---
 
