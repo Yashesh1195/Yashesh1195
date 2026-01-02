@@ -149,7 +149,7 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
 ---
 -->
 
-## 🎓 Education
+<!-- ## 🎓 Education
 
 <div align="center">
 
@@ -185,7 +185,7 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
 </div>
 
 ---
-
+-->
 ## 🤝 Connect with Me
 
 <div align="center">
