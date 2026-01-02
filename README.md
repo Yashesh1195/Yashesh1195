@@ -1,5 +1,6 @@
+<!-- Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Yashesh%20Mehta&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FF,50:6B4CE6,100:4A90E2&height=300&section=header&text=Yashesh%20Mehta&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Data%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" alt="header"/>
 </div>
 
 <div align="center">
@@ -224,7 +225,7 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A177FF,50:6B4CE6,100:4A90E2&height=4"/>
 
 <br>
 
@@ -232,7 +233,7 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A177FF,50:6B4CE6,100:4A90E2&height=4"/>
 <!--
 ### 💡 Did you find something interesting? 
 -->
@@ -286,6 +287,7 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FF,50:6B4CE6,100:4A90E2&height=120&section=footer"/>
 
 </div>
