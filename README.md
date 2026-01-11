@@ -86,7 +86,7 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -99,6 +99,7 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
 </div>
 
 ---
+-->
 <!--
 ## 📌 Pinned Repositories
 
