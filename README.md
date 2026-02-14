@@ -18,7 +18,7 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
 - 🌱 I'm currently learning **Machine Learning, AI, and Advanced Data Analytics**
 - 👯 I'm looking to collaborate on **Data Science & Machine Learning Projects, Web Development Solutions, and Innovative Startup Ideas**
 - 💬 Ask me about **Python, Data Visualization (Matplotlib, Seaborn, Pandas), SQL, and Full Stack Development (MERN Stack)**
-- 📫 How to reach me: **yasheshmehta2005@gmail. com**
+- 📫 How to reach me: **yasheshmehta2005@gmail.com**
 - ⚡ Fun fact: **There are 10 types of people: those who understand binary and those who don't!  😎**
 
 ---
