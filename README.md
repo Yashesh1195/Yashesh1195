@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Science Enthusiast** and **Front End Developer** who loves transforming raw data into actionable insights and building scalable web solutions. I believe in the power of data-driven decision making and clean, efficient code.
+I'm a passionate **Machine Learning Engineer**, **Data Science Enthusiast** and **Front End Developer** who loves transforming raw data into actionable insights and building scalable web solutions. I believe in the power of data-driven decision making and clean, efficient code.
 
-- 🔭 I'm currently working on **Building Data Analytics Dashboards and expanding my expertise in Data Science**
-- 🌱 I'm currently learning **Machine Learning, AI, and Advanced Data Analytics**
+- 🔭 I'm currently working on **cutting-edge Machine Learning and AI solutions, along with interactive data-driven web applications**
+- 🌱 I'm currently learning **Advanced Data Analytics and exploring the latest trends in AI**
 - 👯 I'm looking to collaborate on **Data Science & Machine Learning Projects, Web Development Solutions, and Innovative Startup Ideas**
-- 💬 Ask me about **Python, Data Visualization (Matplotlib, Seaborn, Pandas), SQL, and Full Stack Development (MERN Stack)**
+- 💬 Ask me about **Machine Learning, Python, Data Visualization (Matplotlib, Seaborn, Pandas), SQL, and Full Stack Development (MERN Stack)**
 - 📫 How to reach me: **yasheshmehta2005@gmail.com**
 - ⚡ Fun fact: **There are 10 types of people: those who understand binary and those who don't!  😎**
 
@@ -34,14 +34,15 @@ I'm a passionate **Data Science Enthusiast** and **Front End Developer** who lov
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-CC2927?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 <!--
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 -->
