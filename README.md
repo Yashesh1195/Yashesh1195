@@ -3,10 +3,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FF,50:6B4CE6,100:4A90E2&height=300&section=header&text=Yashesh%20Mehta&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Data%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" alt="header"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yashesh1195&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Yashesh1195?label=Followers&style=social" alt="followers" />
-</div>
+</div> -->
 
 ---
 
