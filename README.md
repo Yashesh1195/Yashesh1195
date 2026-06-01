@@ -280,7 +280,7 @@ I'm a passionate **Machine Learning Engineer**, **Data Science Enthusiast** and 
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yashesh1195&color=blueviolet&style=for-the-badge&label=Visitors)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=Yashesh1195&color=blueviolet&style=for-the-badge&label=Visitors) -->
 [![GitHub Followers](https://img.shields.io/github/followers/Yashesh1195?style=for-the-badge&logo=github&label=Follow)](https://github.com/Yashesh1195)
 
 <br>
