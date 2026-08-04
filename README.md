@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FF,50:6B4CE6,100:4A90E2&height=300&section=header&text=Yashesh%20Mehta&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Data%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FF,50:6B4CE6,100:4A90E2&height=300&section=header&text=Yashesh%20Mehta&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=ML%20Researcher%20|%20Data%20Science%20|%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=50" alt="header"/>
 </div>
 
 <!-- <div align="center">
@@ -14,10 +14,11 @@
 
 I'm a passionate **Machine Learning Engineer**, **Data Science Enthusiast** and **Front End Developer** who loves transforming raw data into actionable insights and building scalable web solutions. I believe in the power of data-driven decision making and clean, efficient code.
 
-- 🔭 I'm currently working on **cutting-edge Machine Learning and AI solutions, along with interactive data-driven web applications**
-- 🌱 I'm currently learning **Advanced Data Analytics and exploring the latest trends in AI**
+- 🔭 I'm currently working on **Machine Learning and AI solutions, along with interactive data-driven web applications**
+- 🌱 I'm currently learning **Advanced NLP and exploring the latest trends in AI**
 - 👯 I'm looking to collaborate on **Data Science & Machine Learning Projects, Web Development Solutions, and Innovative Startup Ideas**
-- 💬 Ask me about **Machine Learning, Python, Data Visualization (Matplotlib, Seaborn, Pandas), SQL, and Full Stack Development (MERN Stack)**
+- 💬 Ask me about **Machine Learning, NLP, Python, Data Visualization (Matplotlib, Seaborn, Pandas), SQL**
+<!-- , and Full Stack Development (MERN Stack)**-->
 - 📫 How to reach me: **yasheshmehta2005@gmail.com**
 - ⚡ Fun fact: **There are 10 types of people: those who understand binary and those who don't!  😎**
 
@@ -39,17 +40,19 @@ I'm a passionate **Machine Learning Engineer**, **Data Science Enthusiast** and 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-CC2927?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<!--
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-<!--
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 -->
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!--
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+-->
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
