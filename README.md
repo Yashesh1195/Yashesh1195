@@ -69,7 +69,7 @@ I'm a passionate **Machine Learning Engineer**, **Data Science Enthusiast** and 
 
 ---
 
-## 📊 GitHub Statistics
+<!--## 📊 GitHub Statistics -->
 
 <!-- <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api? username=Yashesh1195&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -85,11 +85,13 @@ I'm a passionate **Machine Learning Engineer**, **Data Science Enthusiast** and 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashesh1195&theme=tokyonight" alt="Top Languages by Commit"/>
 </div> -->
 
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashesh1195&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
-
 ---
+-->
+
 <!--
 ## 🏆 GitHub Achievements
 
