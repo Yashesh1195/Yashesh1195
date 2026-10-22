@@ -40,6 +40,7 @@ I'm a passionate **Machine Learning Engineer**, **Data Science Enthusiast** and 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-CC2927?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
 <!--
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
